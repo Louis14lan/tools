@@ -1,0 +1,21 @@
+- `Auto Rename Tag` 自动完成另一侧标签的同步修改
+- `Beautify` 格式化代码，值得注意的是，beautify插件支持自定义格式化代码规则 [教程](!https://blog.csdn.net/jiandan1127/article/details/85958965)
+- `Bracket Pair Colorizer` 给括号加上不同的颜色，便于区分不同的区块，使用者可以定义不同括号类型和不同颜色
+- `Debugger for Chrome` 映射vscode上的断点到chrome上，方便调试
+- `GitLens` 方便查看git日志，git重度使用者必备
+- `HTML CSS Support` 智能提示CSS类名以及id
+- `HTML Snippets` 智能提示HTML标签，以及标签含义
+- `JavaScript(ES6) code snippets` ES6语法智能提示，以及快速输入，不仅仅支持.js，还支持.ts，.jsx，.tsx，.html，.vue，省去了配置其支持各种包含js代码文件的时间
+- `markdownlint` markdown语法纠错
+- `open in browser` vscode不像IDE一样能够直接在浏览器中打开html，而该插件支持快捷键与鼠标右键快速在浏览器中打开html文件，支持自定义打开指定的浏览器，包括：Firefox，Chrome，Opera，IE以及Safari
+- `Path Intellisense` 自动提示文件路径，支持各种快速引入文件
+- `React/Redux/react-router Snippets` React/Redux/react-router语法智能提示
+- `Vetur` Vue多功能集成插件，包括：语法高亮，智能提示，emmet，错误提示，格式化，自动补全，debugger。vscode官方钦定Vue插件，Vue开发者必备。
+- `HTMLHint` html提示
+- `filesize` 在底部状态栏显示当前文件大小，点击后还可以看到详细创建、修改时间
+- `quokka` 
+- `TSLint`
+- `Vue VSCode Snippets` VUE代码自动补全插件
+- `npm Intellisense` 用于在import语句中自动填充npm模块。
+- `Window Colors` 每个VSCode窗口都可以独特地自动着色。
+- `live server` 开启本地服务器
